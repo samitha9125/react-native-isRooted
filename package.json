@@ -1,7 +1,7 @@
 {
   "name": "react-native-isrooted",
   "title": "React Native Isrooted",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package can be used to identify if the device is Rooted/Jailbroken or a Simulator/Emulator",
   "main": "index.js",
   "scripts": {
