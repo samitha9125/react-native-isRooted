@@ -1,6 +1,6 @@
-#import "RNisRooted.h"
+#import "Isrooted.h"
 
-@implementation RNisRooted
+@implementation Isrooted
   
   RCT_EXPORT_MODULE();
   
