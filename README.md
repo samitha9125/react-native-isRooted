@@ -37,4 +37,4 @@ componentDidMount(){
 Thank you all who helped to compile this amazing library.
 
 * Yang @beast
-* Erandi Hasithanjali
+* Erandi Hasithanjali @era21
